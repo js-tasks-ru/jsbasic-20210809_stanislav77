@@ -3,6 +3,6 @@ function factorial(n) {
     for (let i = n; i > 0; i--) {
         result = result.length * i;
     }
-    return result.le
+    return result
 }
 console.log();
